@@ -14,4 +14,4 @@ app.get('/', function(req, res){
 app.all('/admin', function(req, res){
     res.send('hello express all');
 });
-app.listen(3000);
+app.listen(3000);x
